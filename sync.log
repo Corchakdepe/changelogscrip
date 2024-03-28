@@ -1,0 +1,9 @@
+28-03-2024 10:45:06 [INFO] Same file, will not sync /Users/ageudepetris/Desktop/htmlandc/source/source.txt >> /Users/ageudepetris/Desktop/htmlandc/source/source.txt
+28-03-2024 10:45:06 [INFO] Same file, will not sync /Users/ageudepetris/Desktop/htmlandc/source/source2.txt >> /Users/ageudepetris/Desktop/htmlandc/source/source2.txt
+28-03-2024 10:45:06 [INFO] Same file, will not sync /Users/ageudepetris/Desktop/htmlandc/source/source3.txt >> /Users/ageudepetris/Desktop/htmlandc/source/source3.txt
+28-03-2024 10:45:06 [INFO] ****************************************************
+28-03-2024 10:45:39 [ERROR] Source folder doesn't exist: ./target/
+28-03-2024 10:45:53 [INFO] Same file, will not sync /Users/ageudepetris/Desktop/htmlandc/source/source.txt >> /Users/ageudepetris/Desktop/htmlandc/source/source.txt
+28-03-2024 10:45:53 [INFO] Same file, will not sync /Users/ageudepetris/Desktop/htmlandc/source/source2.txt >> /Users/ageudepetris/Desktop/htmlandc/source/source2.txt
+28-03-2024 10:45:53 [INFO] Same file, will not sync /Users/ageudepetris/Desktop/htmlandc/source/source3.txt >> /Users/ageudepetris/Desktop/htmlandc/source/source3.txt
+28-03-2024 10:45:53 [INFO] ****************************************************
